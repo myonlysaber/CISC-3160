@@ -1,0 +1,14 @@
+•	Which programming languages did you use for each of these problems?
+I use java for all the question in the lab.
+
+
+•	Why did you choose a language? (There is no right or wrong answer here, choosing an implementation is an art form)
+Java is the first programming language that I learned in school, therefore I’m more comfortable with using java to solve problem.
+
+
+•	Was there any difficult or easy about using that language for solving the problem?
+There is some difficulty, since there is some area in the question I rarely touch before so I must review the criteria before starting the lab. I think by using other language might be easier to solve some of the question.
+
+
+•	If you had to solve the problem again, would you choose a different language?
+If I have to solve the problem again, I might try to use python to do the CVS file I think that will be much easier for python to manipulate the files.
