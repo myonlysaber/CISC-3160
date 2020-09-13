@@ -1,0 +1,29 @@
+Convert Fahrenheit to Celsius enter 1, Convert Celsius to Fahrenheit enter 2
+2
+Enter Celsius temperture for day 1 of the week
+40
+The Fahrenheit temperature for day 1 is 104.0 degree
+
+Enter Celsius temperture for day 2 of the week
+50
+The Fahrenheit temperature for day 2 is 122.0 degree
+
+Enter Celsius temperture for day 3 of the week
+55.2
+The Fahrenheit temperature for day 3 is 131.36 degree
+
+Enter Celsius temperture for day 4 of the week
+46
+The Fahrenheit temperature for day 4 is 114.8 degree
+
+Enter Celsius temperture for day 5 of the week
+55
+The Fahrenheit temperature for day 5 is 131.0 degree
+
+Enter Celsius temperture for day 6 of the week
+60
+The Fahrenheit temperature for day 6 is 140.0 degree
+
+Enter Celsius temperture for day 7 of the week
+54.3
+The Fahrenheit temperature for day 7 is 129.74 degree
