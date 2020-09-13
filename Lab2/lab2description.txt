@@ -1,0 +1,23 @@
+**Part 1** 
+
+Attempt these 3 problems. You may use any programming language. You may also use 
+
+1. Pick 2 columns from a csv file, and sort the answers. 
+    - Example: Get a unique list of Artist names and count average listens per song for a single week. Data available from SpotifyChart.com
+2. Math calculations. 
+    - Example: Convert the weather forecast for a week (a sequence of numbers) from Fahrenheit to Celsius and back
+3. Make a request to any API endpoint and return its contents.
+    - Example: [NASA's Astronomy Picture of the Day (APOD)](https://api.nasa.gov/#apod)
+
+**Part** **2** 
+
+Reflection over the exercises. 
+
+- Which programming languages did you use for each of these problems?
+- Why did you choose a particular language? (There is no right or wrong answer here, choosing an implementation is an art form)
+- Was there any difficult or easy about using that language for solving the problem?
+- If you had to solve the problem again, would you choose a different language?
+
+I create three different java file for three question in part 1 of lab 2.
+Part 2 of the lab is on a txt file in the same folder.
+The example of output for three java file are also in the txt file in the folder.
